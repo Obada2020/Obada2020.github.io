@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79.134" height="73.321" viewBox="0 0 79.134 73.321">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.072" y1="-0.075" x2="1.107" y2="1.131" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#22577a"/>
+      <stop offset="1" stop-color="#38a3a5"/>
+    </linearGradient>
+    <filter id="Path_72" x="0" y="0" width="79.134" height="73.321" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_72)">
+    <path id="Path_72-2" data-name="Path 72" d="M57.021,3H8.113A6.148,6.148,0,0,0,2,9.147V52.174a6.148,6.148,0,0,0,6.113,6.147H57.021a6.148,6.148,0,0,0,6.113-6.147V9.147A6.148,6.148,0,0,0,57.021,3ZM26.454,46.027H11.17V39.88H26.454Zm0-12.293H11.17V27.587H26.454Zm0-12.293H11.17V15.293H26.454ZM41.187,39.88l-8.62-8.728,4.31-4.333,4.31,4.364,9.69-9.743L55.217,25.8Z" transform="translate(7 3)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
